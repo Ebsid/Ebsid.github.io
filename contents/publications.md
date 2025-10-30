@@ -4,7 +4,7 @@
 
 - Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. A Simulation Platform for MARL Training and Evaluation in Swarm Confrontation. <strong>IEEE Robotics and Automation Letters</strong>. Submitted. [[Code]](https://github.com/Wu-duanduan/Swarm-Confrontation-Platform)[[Video]](https://www.bilibili.com/video/BV1mRK6zbECd/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Event-Driven MARL for Collaborative Swarm Confrontation in Asynchronous Environments. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Code]]https://github.com/Wu-duanduan/Asynchronous-Swarm-Confrontation)[[Video]](https://www.bilibili.com/video/BV1RHeUzwE7L/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Event-Driven MARL for Collaborative Swarm Confrontation in Asynchronous Environments. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Code]](https://github.com/Wu-duanduan/Asynchronous-Swarm-Confrontation)[[Video]](https://www.bilibili.com/video/BV1RHeUzwE7L/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
 
 #### Published

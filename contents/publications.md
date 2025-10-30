@@ -25,6 +25,8 @@
 
 - Junyan Li, Chunli Zhu, Yuezu Lv, Lei Chen*. Landing control of a quadrotor on a moving platform with unknown speed in the field of view. <strong> Asian Journal of Control </strong>. vol. 27, no, 3, pp: 1416-1426, 16, Oct. 2024. [[Paper]](https://doi.org/10.1002/asjc.3522)
 
+- Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV Confrontation and Evolutionary Upgrade Based on Multi-Agent Reinforcement Learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
+
 - Qizhen Wu, Kexin Liu, Lei Chen*. Model Predictive Control-Based Value Estimation for Efficient Reinforcement Learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
 
 - Zhaoqi Dong, Qizhen Wu, Lei Chen*. Reinforcement learning-based formation pinning and shape transformation for swarms. <strong>Drones</strong>, vol. 7, no. 11, pp: 673, 13, Nov. 2023. [[Paper]](https://doi.org/10.3390/drones7110673)[[Video]](https://www.bilibili.com/video/BV1YN411H7K6)

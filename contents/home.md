@@ -10,6 +10,7 @@ Email 邮箱:bit_chen@bit.edu.cn
 
 
 #### Research Interests 研究方向
+
 Deep Reinforcement Learning, Multimodal Large Models, Swarm，Decision Making，Topology.
 
 深度强化学习，多模态大模型、集群、决策、拓扑学。

@@ -4,14 +4,10 @@
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Feiyu Yu, Qizhen Wu, Lei Chen*. Constructing LTL-based Reward Machines for Reinforcement Learning via Bayesian Approach. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Yunxiao Tian, Qizhen Wu, Lei Chen*. A Novel Framework to Evaluate Generalization Performance of Deep Reinforcement Learning. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Qizhen Wu，Kexin Liu, Lei Chen*, Jinhu Lu. Hierarchical reinforcement learning for swarm confrontation with high uncertainty. <strong>IEEE Transactions on Automation Science and Engineering </strong>. vol. 22, no, 11, pp: 8630-8644, 05, Nov. 2024. [[Paper]](https://doi.org/10.1109/TASE.2024.3487219)[[Code]](https://github.com/Wu-duanduan/Swarm_confrontation_HRL)[[Video]](https://www.bilibili.com/video/BV15Ts7e8ERZ/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
--Qizhen Wu，Kexin Liu, Lei Chen*, Jinhu Lu. Hierarchical reinforcement learning for swarm confrontation with high uncertainty. <strong>IEEE Transactions on Automation Science and Engineering </strong>. vol. 22, no, 11, pp: 8630-8644, 05, Nov. 2024. [[Paper]](https://doi.org/10.1109/TASE.2024.3487219)[[Code]](https://github.com/Wu-duanduan/Swarm_confrontation_HRL)[[Video]](https://www.bilibili.com/video/BV15Ts7e8ERZ/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Zhaoqi Dong, Qizhen Wu, Lei Chen*. Reinforcement learning-based formation pinning and shape transformation for swarms. <strong>Drones</strong>, vol. 7, no. 11, pp: 673, 13, Nov. 2023. [[Paper]](https://doi.org/10.3390/drones7110673)[[Video]](https://www.bilibili.com/video/BV1YN411H7K6)

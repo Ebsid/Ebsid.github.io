@@ -21,6 +21,8 @@
 
 - Qizhen Wu，Kexin Liu, Lei Chen*, Jinhu Lu. Hierarchical reinforcement learning for swarm confrontation with high uncertainty. <strong>IEEE Transactions on Automation Science and Engineering </strong>. vol. 22, no, 11, pp: 8630-8644, 05, Nov. 2024. [[Paper]](https://doi.org/10.1109/TASE.2024.3487219)[[Code]](https://github.com/Wu-duanduan/Swarm_confrontation_HRL)[[Video]](https://www.bilibili.com/video/BV15Ts7e8ERZ/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
+- Yuxuan Tang, Qizhen Wu, Chunli Zhu, Lei Chen*. "An Efficient Coverage Method for Irregularly Shaped Terrains." <strong>In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>- Abu Dhabi, pp. 7641-7647. IEEE, October 14-18, 2024.[[Paper]](https://doi.org/10.1109/IROS58592.2024.10801856)
+
 - Junyan Li, Chunli Zhu, Yuezu Lv, Lei Chen*. Landing control of a quadrotor on a moving platform with unknown speed in the field of view. <strong> Asian Journal of Control </strong>. vol. 27, no, 3, pp: 1416-1426, 16, Oct. 2024. [[Paper]](https://doi.org/10.1002/asjc.3522)
 
 - Qizhen Wu, Kexin Liu, Lei Chen*. Model Predictive Control-Based Value Estimation for Efficient Reinforcement Learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
@@ -30,4 +32,8 @@
 - Naixin Chen, Chunli Zhu*, Lei Chen. An UBSS Method for Signals with Non-Uniform Energy Distribution of Varied Frequency Bins. <strong>IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society</strong>, Singapore, Singapore, Oct. 10-14 2023.  [[Paper]](https://doi.org/10.1109/IECON51785.2023.10311827)
 
 - Qizhen Wu, Gaoxiang Liu, Kexin Liu, Lei Chen*. Parameter Optimization via Reinforcement Learning for the Regulation of Swarms. <strong>2023 9th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10270800)
+
+- Zhenxin Sun, Qiang Wang, Lei Chen*, Chun Hu. "Unmanned technology-based civil-military intelligent logistics system: from construction to integration." <strong>Journal of Beijing Institute of Technology</strong> vol. 31, no. 2 (2022): 140-151. [[Paper]](https://doi.org/10.15918/j.jbit1004-0579.2022.010)
+
+- Zhenxin Sun, Lei Chen*, Gaoxiang Liu, Tong Qin, Dezhi Zheng. "Structure Impact on Phase Transition in Complex Dynamical Networks." <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9986867)
 

@@ -50,7 +50,7 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Junyan Li, Chunli Zhu, Yuezu Lv, Lei Chen*. Landing control of a quadrotor on a moving platform with unknown speed in the field of view. <strong> Asian Journal of Control </strong>. vol. 27, no, 3, pp: 1416-1426, 16, Oct. 2024. [[Paper]](https://doi.org/10.1002/asjc.3522)
 
-- Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV confrontation and evolutionary upgrade based on multi-agent reinforcement learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
+- Xin Deng, Zhaoqi Dong, Jishiyu Ding*. UAV confrontation and evolutionary upgrade based on multi-agent reinforcement learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
 
 - Ziwei Wan, Zhen Gao*, Fabien Heliot, Yu Su, Zhonghuai Wu, Lei Chen, Qu Luo, Pei Xiao. Orthogonal chirp division multiplexing waveform design for 6G mmWave UAV integrated sensing and communication. <strong>2024 International Wireless Communications and Mobile Computing (IWCMC)</strong>. Ayia Napa, Cyprus  27-31, May 2024. [[Paper]]( https://doi.org/10.1109/IWCMC61514.2024.10592310)
 
@@ -80,17 +80,29 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Weilin Luo, Lei Chen, Kexin Liu, Haibo Gu, Jinhu Lu*. Optimizing constrained guidance policy with minimum overload regularization. <strong>IEEE Transactions on Circuits and Systems I: Regular Papers</strong>, vol. 69, no. 7, pp: 2994-3005, 26, Jul. 2022.  [[Paper]](https://doi.org/10.1109/TCSI.2022.3163463)
 
-- Jinhao Zhou, Kexin Liu, Yuezu Lu, Lei Chen*. Complex network–based pinning control of drone swarm. <strong>16th IFAC Symposium on Large Scale Complex Systems: Theory and Applications LSS</strong>. Xi'an, Apr. 22-24, 2022. [[Paper]](https://doi.org/10.1016/j.ifacol.2022.05.036)
+- Jinhao Zhou, Kexin Liu, Yuezu Lu, Lei Chen*. Complex network–based pinning control of drone swarm. <strong>16th IFAC Symposium on Large Scale Complex Systems: Theory and Applications LSS</strong>. Xi'an, China Apr. 22-24, 2022. [[Paper]](https://doi.org/10.1016/j.ifacol.2022.05.036)
 
 - Yucheng Zhang, Tian Wang*, Kexin Liu, Baochang Zhang, Lei Chen. Recent advances of single-object tracking methods: A brief survey. <strong>Neurocomputing</strong>, vol. 455, pp: 1-11, 30 Sep. 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.011)
 
+- Lei Chen*, Xinghuo Yu, Changyin Sun. Characteristic modeling approach for high-order linear dynamical systems. <strong> IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, vol. 51, no. 9, pp: 5405 - 5413, 11 Sep. 2021. [[Paper]](https://doi.org/10.1109/TSMC.2019.2956484)
+
 - Lei Chen*, Xinghuo Yu, Xin Xin, Changyin Sun. Characteristic model-based control approach for complex network systems. <strong> IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, vol. 51, no. 6, pp: 3599 - 3607, 07 Jun. 2021. [[Paper]](https://doi.org/10.1109/TSMC.2019.2931309)
+
+- Guoliang Zhu, Lei Chen*, Kexin Liu, Jinhu Lu. Data-driven control based on function approximation with binomial coefficients. <strong>2021 33rd Chinese Control and Decision Conference (CCDC)</strong>, Kunming, China, May 22-24, 2021. [[paper]](https://doi.org/10.1109/CCDC52312.2021.9602405)
 
 - Weilin Luo, Jinhu Lu*, Xuerong Li, Lei Chen, Kexin Liu. Rethinking motivation of deep neural architectures. <strong>IEEE Circuits and Systems Magazine</strong>, vol. 20, no. 4, pp: 65-76, 12, Nov. 2020.  [[Paper]](https://doi.org/10.1109/MCAS.2020.3027222)
 
-- Lei Chen, Yan Yan, Changyin Sun*. A novel modeling and controlling approach for high-order nonlinear systems. <strong> Asian Journal of Control </strong>. vol. 22, no, 3, pp: 1295-1305, 18, Feb. 2019. [[Paper]](https://doi.org/10.1002/asjc.2000)
+- Lei Chen, Yan Yan, Changyin Sun*. A novel modeling and controlling approach for high-order nonlinear systems. <strong>Asian Journal of Control</strong>. vol. 22, no, 3, pp: 1295-1305, 18, Feb. 2019. [[Paper]](https://doi.org/10.1002/asjc.2000)
+
+- Lei Chen, Xin Xin, Long Xu, Changyin Sun*. Characteristic modeling and control approach of high-order nonlinear systems. <strong>2018 IEEE Conference on Decision and Control (CDC)</strong>, Miami, USA, Dec. 17-19, 2018. [[paper]](https://doi.org/10.1109/CDC.2018.8619498)
+
+- Lei Chen*, Xinghuo Yu, Xin Xin, Changyin Sun. Characteristic modeling approach for complex network systems. <strong> IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, vol. 48, no. 8, pp: 1383 - 1388, 18 Aug. 2018. [[Paper]](https://doi.org/10.1109/TSMC.2017.2737438)
+
+- Lei Chen*, Xinghuo Yu, Changyin Sun. Characteristic modelling of complex networks. <strong>2016 IEEE International Conference on Industrial Technology (ICIT)</strong>, Taibei, China, Mar. 14-17, 2016. [[paper]](https://doi.org/10.1109/ICIT.2016.7474958)
 
 - Lei Chen, Yan Yan, Chaoxu Mu, Changyin Sun*. Characteristic model-based discrete-time sliding mode control for spacecraft with variable tilt of flexible structures. <strong> IEEE/CAA Journal of Automatica Sinica</strong>, vol. 3, no. 1, pp: 42-50, 10, Jan. 2016. [[Paper]](https://doi.org/10.1109/JAS.2016.7373761)
+
+- Lei Chen, Yan Yan, Changyin Sun*. Nonlinear characteristic model–based SMC and its application to flexible satellites. <strong>19th IFAC World Congress</strong>, Cape Town, South Africa, Aug. 24-29, 2014. [[paper]](https://doi.org/10.3182/20140824-6-ZA-1003.01200)
 
 
 

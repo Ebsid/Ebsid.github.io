@@ -54,7 +54,7 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Ziwei Wan, Zhen Gao*, Fabien Heliot, Yu Su, Zhonghuai Wu, Lei Chen, Qu Luo, Pei Xiao. Orthogonal chirp division multiplexing waveform design for 6G mmWave UAV integrated sensing and communication. <strong>2024 International Wireless Communications and Mobile Computing (IWCMC)</strong>. Ayia Napa, Cyprus  27-31, May 2024. [[Paper]]( https://doi.org/10.1109/IWCMC61514.2024.10592310)
 
-- Gaoxiang Liu, Kexin Liu, Lei Chen*. Collective behavior regulation in drone swarms via pinning strategies. <strong>Proceedings of 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control(CCSICC)</strong>. vol. 1207, pp. 444-454 15, Jun. 2024. [[]paper]](https://link.springer.com/chapter/10.1007/978-981-97-3336-1_38)
+- Gaoxiang Liu, Kexin Liu, Lei Chen*. Collective behavior regulation in drone swarms via pinning strategies. <strong>Proceedings of 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control(CCSICC)</strong>. vol. 1207, pp. 444-454 15, Jun. 2024. [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-3336-1_38)
 
 - Qizhen Wu, Kexin Liu, Lei Chen*. Model predictive control-based value estimation for efficient reinforcement learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
 

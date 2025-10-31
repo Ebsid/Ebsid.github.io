@@ -1,23 +1,39 @@
 #### Submitted
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Reinforcement Learning-Based Pathfinding for Multiple UAVs Facing Abrupt Hazardous Areas. <strong>IEEE Transactions on Automation Science and Engineering</strong>. Submitted. [[Paper]](https://arxiv.org/abs/2310.16659)[[Code]](https://github.com/Wu-duanduan/Pathfinding_MARL)[[Video]](https://www.bilibili.com/video/BV1gw41197hV/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Reinforcement learning-based pathfinding for multiple UAVs facing abrupt hazardous areas. <strong>IEEE Transactions on Automation Science and Engineering</strong>. Submitted. [[Paper]](https://arxiv.org/abs/2310.16659)[[Code]](https://github.com/Wu-duanduan/Pathfinding_MARL)[[Video]](https://www.bilibili.com/video/BV1gw41197hV/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. A Simulation Platform for MARL Training and Evaluation in Swarm Confrontation. <strong>IEEE Robotics and Automation Letters</strong>. Submitted. [[Code]](https://github.com/Wu-duanduan/Swarm-Confrontation-Platform)[[Video]](https://www.bilibili.com/video/BV1mRK6zbECd/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Zhaoqi Dong, Zhinan Wang, Quanqi Zheng, Bin Xu, Lei Chen*, Jinhu Lu. 
+A probabilistic transition learning approach for conflict–free decision–making in multi–UGV confrontation. <strong>IEEE Transactions on Vehicular Technology </strong>. Submitted. [[Code]](https://github.com/dddddzq/Swarm-confrontation)[[Video]](https://b23.tv/ozlwUAs)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Event-Driven MARL for Collaborative Swarm Confrontation in Asynchronous Environments. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Code]](https://github.com/Wu-duanduan/Asynchronous-Swarm-Confrontation)[[Video]](https://www.bilibili.com/video/BV1RHeUzwE7L/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. A simulation platform for MARL training and evaluation in swarm confrontation. <strong>IEEE Robotics and Automation Letters</strong>. Submitted. [[Code]](https://github.com/Wu-duanduan/Swarm-Confrontation-Platform)[[Video]](https://www.bilibili.com/video/BV1mRK6zbECd/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
+- Li Wang, Qizhen Wu, Lei Chen*. Tactical decision for multi–UGV confrontation with a vision–language model–based commander. <strong>Journal of Intelligent & Robotic Systems</strong>. Submitted. [[Paper]](https://arxiv.org/abs/2507.11079)
+
+- Zhaoqi Dong, Lei Chen*. A dual–field framework for urban low–altitude UAV traffic planning and management. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Video]](https://b23.tv/W0a8WLT)
+
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Event-driven MARL for collaborative swarm confrontation in asynchronous environments. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Code]](https://github.com/Wu-duanduan/Asynchronous-Swarm-Confrontation)[[Video]](https://www.bilibili.com/video/BV1RHeUzwE7L/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+
+- Zhaolu Wang, Ying Luo, Hao Liang, Yutong Wu, Lei Chen*. Geometric-temporal fusion for robust 3D drone trajectory estimation. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV1EXpgzTEuN/?share_source=copy_web&vd_source=539007dc12a6da101d8ba56f62929980)
+
+- Peiyan Li, Yuxuan Tang, Lei Chen*. Turn minimization in coverage path planning via conflict zone modeling. <strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV1tqnFzSExE/?vd_source=c566545330bedb343304b267fd8902b9)
+
+- Ruozhai Sun, Qizhen Wu,  Lei Chen*. Transformer–based hierarchical reinforcement learning for sequential decision–making in swarm confrontation.<strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV1QhnFz9E3s?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2206419-zjg6v.1761879415464.761&vd_source=71c121b7d93348ba87524a66a941cc90)
 
 #### Published
 
-- Naixin Chen, Lei Chen, Chunli Zhu*, Zhen Gao. Causal Inference-Enhanced UAV Detection and Identification for Low-Altitude Air City Transport. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/TITS.2025.3617479)
+- Naixin Chen, Lei Chen, Chunli Zhu*, Zhen Gao. Causal inference-enhanced UAV detection and identification for low-altitude air city transport. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/TITS.2025.3617479)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China. [[Paper]](https://arxiv.org/abs/2504.15876)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional task-motion planning based on hierarchical reinforcement learning for strategic confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China. [[Paper]](https://arxiv.org/abs/2504.15876)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
-- Feiyu Yu, Qizhen Wu, Lei Chen*. Constructing LTL-based Reward Machines for Reinforcement Learning via Bayesian Approach. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
+- Feiyu Yu, Qizhen Wu, Lei Chen*. Constructing LTL-based reward machines for reinforcement learning via bayesian approach. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
 
-- Yunxiao Tian, Qizhen Wu, Lei Chen*. A Novel Framework to Evaluate Generalization Performance of Deep Reinforcement Learning. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
+- Yunxiao Tian, Qizhen Wu, Lei Chen*. A novel framework to evaluate generalization performance of deep reinforcement learning. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
 
-- Xin Deng，Lei Chen*. A Model Compression Method for Deep Reinforcement Learning. <strong>The 9th Chinese Conference on Swarm Intelligence and Cooperative Control </strong>. 31, Oct. 2025. Shanghai, China.
+- Xin Deng，Lei Chen*. A model compression method for deep reinforcement learning. <strong>The 9th Chinese Conference on Swarm Intelligence and Cooperative Control </strong>. 31, Oct. 2025. Shanghai, China.
+
+- Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV confrontation and evolutionary upgrade based on multi-agent reinforcement learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
+
+- Zhuoran Li, Zhen Gao*, Kuiyu Wang, Yikun Mei, Chunli Zhu, Lei Chen, Xiaomei Wu, Dusit Niyato. Unauthorized UAV countermeasure for low-altitude economy: joint communications and jamming based on MIMO cellular systems. <strong>IEEE Internet of Things Journal </strong>. vol. 12, no, 6, pp: 6659 - 6672, 20, Nov. 2024. [[Paper]](https://doi.org/10.1109/JIOT.2024.3491796)
 
 - Qizhen Wu，Kexin Liu, Lei Chen*, Jinhu Lu. Hierarchical reinforcement learning for swarm confrontation with high uncertainty. <strong>IEEE Transactions on Automation Science and Engineering </strong>. vol. 22, no, 11, pp: 8630-8644, 05, Nov. 2024. [[Paper]](https://doi.org/10.1109/TASE.2024.3487219)[[Code]](https://github.com/Wu-duanduan/Swarm_confrontation_HRL)[[Video]](https://www.bilibili.com/video/BV15Ts7e8ERZ/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 

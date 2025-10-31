@@ -20,8 +20,6 @@ A probabilistic transition learning approach for conflict–free decision–maki
 - Ruozhai Sun, Qizhen Wu,  Lei Chen*. Transformer–based hierarchical reinforcement learning for sequential decision–making in swarm confrontation.<strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV1QhnFz9E3s?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2206419-zjg6v.1761879415464.761&vd_source=71c121b7d93348ba87524a66a941cc90)
 
 
-- Haoshuai Wang, Lei Chen*, Chunli Zhu. Entropy-based key node identification for group-splitting swarm control of vicsek model. <strong>2024 China Automation Congress (CAC)</strong>. Submitted.
-
 #### Published
 
 - Naixin Chen, Lei Chen, Chunli Zhu*, Zhen Gao. Causal inference-enhanced UAV detection and identification for low-altitude air city transport. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/TITS.2025.3617479)
@@ -37,6 +35,9 @@ A probabilistic transition learning approach for conflict–free decision–maki
 - Xin Deng，Lei Chen*. A model compression method for deep reinforcement learning. <strong>The 9th Chinese Conference on Swarm Intelligence and Cooperative Control </strong>. 31, Oct. 2025. Shanghai, China.
 
 - Haoshuai Wang, Lei Chen*, Chunli Zhu. Entropy-based key node identification for group-splitting swarm control of vicsek model. <strong>2024 China Automation Congress (CAC)</strong>. Harbin, China, Oct. 11–13, 2025.
+
+- Yi Tao, Zhen Gao, Zhuoran Li, Ziwei Wan, Tuan Li, Chunli Zhu, Lei Chen, Guanghui Wen, Dizhi Zheng, Dusit Niyato. Pseudo-random TDM-MIMO FMCW based millimeter-wave sensing and communication integration for UAV swarm. <strong> IEEE Internet of Things Journal</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/JIOT.2025.3622658)
+
 
 - Yiyang Zeng, Haoshuai Wang*, Lei Chen, Zhaoqi Dong. Characteristic modeling a class of nonliear systems with different parameter estimation methods. <strong>2024 International Conference on Guidance, Navigation and Control (ICGNC) </strong>. vol. 1340, pp: 104-115, 04, Mar. 2025. [[Paper]](https://doi.org/10.1007/978-981-96-2212-2_11)
 

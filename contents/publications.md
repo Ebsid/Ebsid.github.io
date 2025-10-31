@@ -50,6 +50,8 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV confrontation and evolutionary upgrade based on multi-agent reinforcement learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
 
+- Ziwei Wan, Zhen Gao*, Fabien Heliot, Yu Su, Zhonghuai Wu, Lei Chen, Qu Luo, Pei Xiao. Orthogonal chirp division multiplexing waveform design for 6G mmWave UAV integrated sensing and communication. <strong>2024 International Wireless Communications and Mobile Computing (IWCMC)</strong>. Ayia Napa, Cyprus  27-31, May 2024. [[Paper]]( https://doi.org/10.1109/IWCMC61514.2024.10592310)
+
 - Qizhen Wu, Kexin Liu, Lei Chen*. Model predictive control-based value estimation for efficient reinforcement learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
 
 - Zhaoqi Dong, Qizhen Wu, Lei Chen*. Reinforcement learning-based formation pinning and shape transformation for swarms. <strong>Drones</strong>, vol. 7, no. 11, pp: 673, 13, Nov. 2023. [[Paper]](https://doi.org/10.3390/drones7110673)[[Video]](https://www.bilibili.com/video/BV1YN411H7K6)

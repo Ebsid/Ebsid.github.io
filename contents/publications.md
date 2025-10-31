@@ -53,15 +53,26 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Ziwei Wan, Zhen Gao*, Fabien Heliot, Yu Su, Zhonghuai Wu, Lei Chen, Qu Luo, Pei Xiao. Orthogonal chirp division multiplexing waveform design for 6G mmWave UAV integrated sensing and communication. <strong>2024 International Wireless Communications and Mobile Computing (IWCMC)</strong>. Ayia Napa, Cyprus  27-31, May 2024. [[Paper]]( https://doi.org/10.1109/IWCMC61514.2024.10592310)
 
+- Gaoxiang Liu, Kexin Liu, Lei Chen*. Collective behavior regulation in drone swarms via pinning strategies. <strong>Proceedings of 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control(CCSICC)</strong>. vol. 1207, pp. 444-454 15, Jun. 2024. [[]paper]](https://doi.org/0.1007/978-981-97-3336-1_38)
+
 - Qizhen Wu, Kexin Liu, Lei Chen*. Model predictive control-based value estimation for efficient reinforcement learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
 
 - Zhaoqi Dong, Qizhen Wu, Lei Chen*. Reinforcement learning-based formation pinning and shape transformation for swarms. <strong>Drones</strong>, vol. 7, no. 11, pp: 673, 13, Nov. 2023. [[Paper]](https://doi.org/10.3390/drones7110673)[[Video]](https://www.bilibili.com/video/BV1YN411H7K6)
 
-- Naixin Chen, Chunli Zhu*, Lei Chen. An UBSS method for signals with non-Uniform energy distribution of varied frequencybins. <strong>IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society</strong>, Singapore, Singapore, Oct. 10-14 2023.  [[Paper]](https://doi.org/10.1109/IECON51785.2023.10311827)
+- Naixin Chen, Chunli Zhu*, Lei Chen. An UBSS method for signals with non-Uniform energy distribution of varied frequencybins. <strong>IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society</strong>. Singapore, Singapore, Oct. 10-14 2023.  [[Paper]](https://doi.org/10.1109/IECON51785.2023.10311827)
+
+- Gaoxiang Liu, Lei Chen*, Kexin Liu, Ying Luo. A swarm of unmanned vehicles in the shallow ocean: A survey. <strong>Neurocomputing</strong>, vol. 531, pp: 73-84, 28 Apr. 2023. [[Paper]](https://doi.org/10.1016/j.neucom.2023.02.020)
 
 - Qizhen Wu, Gaoxiang Liu, Kexin Liu, Lei Chen*. Parameter optimization via reinforcement learning for the regulation of swarms. <strong>2023 9th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10270800)
 
-- Zhenxin Sun, Qiang Wang, Lei Chen*, Chun Hu. "Unmanned technology-based civil-military intelligent logistics system: from construction to integration." <strong>Journal of Beijing Institute of Technology</strong> vol. 31, no. 2 (2022): 140-151. [[Paper]](https://doi.org/10.15918/j.jbit1004-0579.2022.010)
+- Yuezu Lv*, Jialing Zhou, Lei Chen, Chunli Zhu, Tong Qin. Fully distributed minimal-order attack-free protocol for nonlinear multi-agent networks. <strong>2023 9th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)</strong>. [[Paper]](https://doi.org/10.1109/ICCSS58421.2023.10269888)
 
-- Zhenxin Sun, Lei Chen*, Gaoxiang Liu, Tong Qin, Dezhi Zheng. "Structure impact on phase transition in complex dynamical networks." <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9986867)
+- Zhenxin Sun, Qiang Wang, Lei Chen*, Chun Hu. Unmanned technology-based civil-military intelligent logistics system: from construction to integration. <strong>Journal of Beijing Institute of Technology</strong> vol. 31, no. 2 (2022): 140-151. [[Paper]](https://doi.org/10.15918/j.jbit1004-0579.2022.010)
+
+- Zhenxin Sun, Lei Chen*, Gaoxiang Liu, Tong Qin, Dezhi Zheng. Structure impact on phase transition in complex dynamical networks. <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9986867)
+
+- Jinhao Zhou, Lei Chen*, Kexin Liu, Dezhi Zheng, Gaoxiang Liu. Optimal pinning strategy of drone swarms. <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9987213)
+
+- Jinhao Zhou, Kexin Liu, Yuezu Lu, Lei Chen*. Complex network–based pinning control of drone swarm. <strong>16th IFAC Symposium on Large Scale Complex Systems: Theory and Applications LSS</strong>. Xi'an, Apr. 22-24, 2022. [[Paper]](https://doi.org/10.1016/j.ifacol.2022.05.036)
+
 

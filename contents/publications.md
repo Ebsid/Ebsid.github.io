@@ -77,6 +77,13 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Weilin Luo, Jinhu Lu*, Kexin Liu, Lei Chen. Learning-based policy optimization for adversarial missile-target assignment. <strong>IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, vol. 52, no. 7, pp: 4426-4437, 28, Jul. 2022.  [[Paper]](https://doi.org/10.1109/TSMC.2021.3096997)
 
+- Weilin Luo, Lei Chen, Kexin Liu, Haibo Gu, Jinhu Lu*. Optimizing constrained guidance policy with minimum overload regularization. <strong>IEEE Transactions on Circuits and Systems I: Regular Papers</strong>, vol. 69, no. 7, pp: 2994-3005, 26, Jul. 2022.  [[Paper]](https://doi.org/10.1109/TCSI.2022.3163463)
+
 - Jinhao Zhou, Kexin Liu, Yuezu Lu, Lei Chen*. Complex network–based pinning control of drone swarm. <strong>16th IFAC Symposium on Large Scale Complex Systems: Theory and Applications LSS</strong>. Xi'an, Apr. 22-24, 2022. [[Paper]](https://doi.org/10.1016/j.ifacol.2022.05.036)
+
+- Yucheng Zhang, Tian Wang*, Kexin Liu, Baochang Zhang, Lei Chen. Recent advances of single-object tracking methods: A brief survey. <strong>Neurocomputing</strong>, vol. 455, pp: 1-11, 30 Sep. 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.011)
+
+- Weilin Luo, Jinhu Lu*, Xuerong Li, Lei Chen, Kexin Liu. Rethinking motivation of deep neural architectures. <strong>IEEE Circuits and Systems Magazine</strong>, vol. 20, no. 4, pp: 65-76, 12, Nov. 2020.  [[Paper]](https://doi.org/10.1109/MCAS.2020.3027222)
+
 
 

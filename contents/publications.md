@@ -67,11 +67,15 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Yuezu Lv*, Jialing Zhou, Lei Chen, Chunli Zhu, Tong Qin. Fully distributed minimal-order attack-free protocol for nonlinear multi-agent networks. <strong>2023 9th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)</strong>. [[Paper]](https://doi.org/10.1109/ICCSS58421.2023.10269888)
 
-- Zhenxin Sun, Qiang Wang, Lei Chen*, Chun Hu. Unmanned technology-based civil-military intelligent logistics system: from construction to integration. <strong>Journal of Beijing Institute of Technology</strong> vol. 31, no. 2 (2022): 140-151. [[Paper]](https://doi.org/10.15918/j.jbit1004-0579.2022.010)
+- Guoliang Zhu, Kexin Liu, Haibo Gu, Lei Chen, Jinhu Lu*. Fully distributed event-triggered formation control for multi-agent systems with unknown disturbances. <strong>International Journal of Robust and Nonlinear Control </strong>, vol. 33, no. 2, pp: 736-752, 25, Jan. 2023. [[Paper]](https://doi.org/10.1002/rnc.6451)
+
+- Zhenxin Sun, Qiang Wang, Lei Chen*, Chun Hu. Unmanned technology-based civil-military intelligent logistics system: from construction to integration. <strong>Journal of Beijing Institute of Technology</strong>, vol. 31, no. 2 (2022): 140-151. [[Paper]](https://doi.org/10.15918/j.jbit1004-0579.2022.010)
 
 - Zhenxin Sun, Lei Chen*, Gaoxiang Liu, Tong Qin, Dezhi Zheng. Structure impact on phase transition in complex dynamical networks. <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9986867)
 
 - Jinhao Zhou, Lei Chen*, Kexin Liu, Dezhi Zheng, Gaoxiang Liu. Optimal pinning strategy of drone swarms. <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9987213)
+
+- Weilin Luo, Jinhu Lu*, Kexin Liu, Lei Chen. Learning-based policy optimization for adversarial missile-target assignment. <strong>IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, vol. 52, no. 7, pp: 4426-4437, 28, Jul. 2022.  [[Paper]](https://doi.org/10.1109/TSMC.2021.3096997)
 
 - Jinhao Zhou, Kexin Liu, Yuezu Lu, Lei Chen*. Complex network–based pinning control of drone swarm. <strong>16th IFAC Symposium on Large Scale Complex Systems: Theory and Applications LSS</strong>. Xi'an, Apr. 22-24, 2022. [[Paper]](https://doi.org/10.1016/j.ifacol.2022.05.036)
 

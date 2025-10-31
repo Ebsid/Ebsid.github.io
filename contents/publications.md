@@ -28,6 +28,8 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Haoshuai Wang, Yuxuan Tang, Qizhen Wu, Xin Deng, Lei Chen*. Design and simulation of a multi-platform cross-domain rescue command and control system. <strong>The 37th China Simulation Conference</strong>. Hefei, China, Nov. 1-3, 2025.
 
+- Yifei Zhang, Lei Chen*. LEGO-maker: a semantic-driven algorithm for text-to-3D generation. <strong>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2025</strong>. Honolulu Hawaii, USA, Oct. 19-23, 2025. 
+
 - Feiyu Yu, Qizhen Wu, Lei Chen*. Constructing LTL-based reward machines for reinforcement learning via bayesian approach. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
 
 - Yunxiao Tian, Qizhen Wu, Lei Chen*. A novel framework to evaluate generalization performance of deep reinforcement learning. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
@@ -37,7 +39,6 @@ A probabilistic transition learning approach for conflict–free decision–maki
 - Haoshuai Wang, Lei Chen*, Chunli Zhu. Entropy-based key node identification for group-splitting swarm control of vicsek model. <strong>2024 China Automation Congress (CAC)</strong>. Harbin, China, Oct. 11–13, 2025.
 
 - Yi Tao, Zhen Gao, Zhuoran Li, Ziwei Wan, Tuan Li, Chunli Zhu, Lei Chen, Guanghui Wen, Dizhi Zheng, Dusit Niyato. Pseudo-random TDM-MIMO FMCW based millimeter-wave sensing and communication integration for UAV swarm. <strong> IEEE Internet of Things Journal</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/JIOT.2025.3622658)
-
 
 - Yiyang Zeng, Haoshuai Wang*, Lei Chen, Zhaoqi Dong. Characteristic modeling a class of nonliear systems with different parameter estimation methods. <strong>2024 International Conference on Guidance, Navigation and Control (ICGNC) </strong>. vol. 1340, pp: 104-115, 04, Mar. 2025. [[Paper]](https://doi.org/10.1007/978-981-96-2212-2_11)
 
@@ -83,7 +84,13 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Yucheng Zhang, Tian Wang*, Kexin Liu, Baochang Zhang, Lei Chen. Recent advances of single-object tracking methods: A brief survey. <strong>Neurocomputing</strong>, vol. 455, pp: 1-11, 30 Sep. 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.011)
 
+- Lei Chen*, Xinghuo Yu, Xin Xin, Changyin Sun. Characteristic model-based control approach for complex network systems. <strong> IEEE Transactions on Systems, Man, and Cybernetics: Systems</strong>, vol. 51, no. 6, pp: 3599 - 3607, 07 Jun. 2021. [[Paper]](https://doi.org/10.1109/TSMC.2019.2931309)
+
 - Weilin Luo, Jinhu Lu*, Xuerong Li, Lei Chen, Kexin Liu. Rethinking motivation of deep neural architectures. <strong>IEEE Circuits and Systems Magazine</strong>, vol. 20, no. 4, pp: 65-76, 12, Nov. 2020.  [[Paper]](https://doi.org/10.1109/MCAS.2020.3027222)
+
+- Lei Chen, Yan Yan, Changyin Sun*. A novel modeling and controlling approach for high-order nonlinear systems. <strong> Asian Journal of Control </strong>. vol. 22, no, 3, pp: 1295-1305, 18, Feb. 2019. [[Paper]](https://doi.org/10.1002/asjc.2000)
+
+- Lei Chen, Yan Yan, Chaoxu Mu, Changyin Sun*. Characteristic model-based discrete-time sliding mode control for spacecraft with variable tilt of flexible structures. <strong> IEEE/CAA Journal of Automatica Sinica</strong>, vol. 3, no. 1, pp: 42-50, 10, Jan. 2016. [[Paper]](https://doi.org/10.1109/JAS.2016.7373761)
 
 
 

@@ -42,7 +42,9 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Yiyang Zeng, Haoshuai Wang*, Lei Chen, Zhaoqi Dong. Characteristic modeling a class of nonliear systems with different parameter estimation methods. <strong>2024 International Conference on Guidance, Navigation and Control (ICGNC) </strong>. vol. 1340, pp: 104-115, 04, Mar. 2025. [[Paper]](https://doi.org/10.1007/978-981-96-2212-2_11)
 
-- Zhuoran Li, Zhen Gao*, Kuiyu Wang, Yikun Mei, Chunli Zhu, Lei Chen, Xiaomei Wu, Dusit Niyato. Unauthorized UAV countermeasure for low-altitude economy: joint communications and jamming based on MIMO cellular systems. <strong>IEEE Internet of Things Journal </strong>. vol. 12, no, 6, pp: 6659 - 6672, 20, Nov. 2024. [[Paper]](https://doi.org/10.1109/JIOT.2024.3491796)
+- Jun Zhang*, Lei Chen, Zhijie Gao, Yinxian Duo. Low-altitude unmanned aerial vehicle technology: Current status and prospects. <strong>Strategic Study of CAE</strong>. vol. 27, no, 2, pp: 73-85, 20, Jan. 2025. [[Paper]](https://doi.org/10.15302/J-SSCAE-2024.12.017)
+
+- Zhuoran Li, Zhen Gao*, Kuiyu Wang, Yikun Mei, Chunli Zhu, Lei Chen, Xiaomei Wu, Dusit Niyato. Unauthorized UAV countermeasure for low-altitude economy: joint communications and jamming based on MIMO cellular systems. <strong>IEEE Internet of Things Journal</strong>. vol. 12, no, 6, pp: 6659 - 6672, 20, Nov. 2024. [[Paper]](https://doi.org/10.1109/JIOT.2024.3491796)
 
 - Qizhen Wu，Kexin Liu, Lei Chen*, Jinhu Lu. Hierarchical reinforcement learning for swarm confrontation with high uncertainty. <strong>IEEE Transactions on Automation Science and Engineering </strong>. vol. 22, no, 11, pp: 8630-8644, 05, Nov. 2024. [[Paper]](https://doi.org/10.1109/TASE.2024.3487219)[[Code]](https://github.com/Wu-duanduan/Swarm_confrontation_HRL)[[Video]](https://www.bilibili.com/video/BV15Ts7e8ERZ/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 

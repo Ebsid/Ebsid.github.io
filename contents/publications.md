@@ -19,11 +19,16 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Ruozhai Sun, Qizhen Wu,  Lei Chen*. Transformer–based hierarchical reinforcement learning for sequential decision–making in swarm confrontation.<strong>2026 IEEE International Conference on Robotics and Automation (ICRA)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV1QhnFz9E3s?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2206419-zjg6v.1761879415464.761&vd_source=71c121b7d93348ba87524a66a941cc90)
 
+
+- Haoshuai Wang, Lei Chen*, Chunli Zhu. Entropy-based key node identification for group-splitting swarm control of vicsek model. <strong>2024 China Automation Congress (CAC)</strong>. Submitted.
+
 #### Published
 
 - Naixin Chen, Lei Chen, Chunli Zhu*, Zhen Gao. Causal inference-enhanced UAV detection and identification for low-altitude air city transport. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/TITS.2025.3617479)
 
 - Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional task-motion planning based on hierarchical reinforcement learning for strategic confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China. [[Paper]](https://arxiv.org/abs/2504.15876)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+
+- Haoshuai Wang, Yuxuan Tang, Qizhen Wu, Xin Deng, Lei Chen*. Design and simulation of a multi-platform cross-domain rescue command and control system. <strong>The 37th China Simulation Conference</strong>. Hefei, China, Nov. 1-3, 2025.
 
 - Feiyu Yu, Qizhen Wu, Lei Chen*. Constructing LTL-based reward machines for reinforcement learning via bayesian approach. <strong>2025 China Automation Congress (CAC) </strong>. Harbin, China, Oct. 11–13, 2025.
 
@@ -31,27 +36,29 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 - Xin Deng，Lei Chen*. A model compression method for deep reinforcement learning. <strong>The 9th Chinese Conference on Swarm Intelligence and Cooperative Control </strong>. 31, Oct. 2025. Shanghai, China.
 
-- Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV confrontation and evolutionary upgrade based on multi-agent reinforcement learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
+- Haoshuai Wang, Lei Chen*, Chunli Zhu. Entropy-based key node identification for group-splitting swarm control of vicsek model. <strong>2024 China Automation Congress (CAC)</strong>. Harbin, China, Oct. 11–13, 2025.
+
+- Yiyang Zeng, Haoshuai Wang*, Lei Chen, Zhaoqi Dong. Characteristic modeling a class of nonliear systems with different parameter estimation methods. <strong>2024 International Conference on Guidance, Navigation and Control (ICGNC) </strong>. vol. 1340, pp: 104-115, 04, Mar. 2025. [[Paper]](https://doi.org/10.1007/978-981-96-2212-2_11)
 
 - Zhuoran Li, Zhen Gao*, Kuiyu Wang, Yikun Mei, Chunli Zhu, Lei Chen, Xiaomei Wu, Dusit Niyato. Unauthorized UAV countermeasure for low-altitude economy: joint communications and jamming based on MIMO cellular systems. <strong>IEEE Internet of Things Journal </strong>. vol. 12, no, 6, pp: 6659 - 6672, 20, Nov. 2024. [[Paper]](https://doi.org/10.1109/JIOT.2024.3491796)
 
 - Qizhen Wu，Kexin Liu, Lei Chen*, Jinhu Lu. Hierarchical reinforcement learning for swarm confrontation with high uncertainty. <strong>IEEE Transactions on Automation Science and Engineering </strong>. vol. 22, no, 11, pp: 8630-8644, 05, Nov. 2024. [[Paper]](https://doi.org/10.1109/TASE.2024.3487219)[[Code]](https://github.com/Wu-duanduan/Swarm_confrontation_HRL)[[Video]](https://www.bilibili.com/video/BV15Ts7e8ERZ/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
-- Yuxuan Tang, Qizhen Wu, Chunli Zhu, Lei Chen*. "An Efficient Coverage Method for Irregularly Shaped Terrains." <strong>In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>- Abu Dhabi, pp. 7641-7647. IEEE, October 14-18, 2024.[[Paper]](https://doi.org/10.1109/IROS58592.2024.10801856)
+- Yuxuan Tang, Qizhen Wu, Chunli Zhu, Lei Chen*. "An efficient coverage method for irregularly shaped terrains." <strong>In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>- Abu Dhabi, pp. 7641-7647. IEEE, October 14-18, 2024.[[Paper]](https://doi.org/10.1109/IROS58592.2024.10801856)
 
 - Junyan Li, Chunli Zhu, Yuezu Lv, Lei Chen*. Landing control of a quadrotor on a moving platform with unknown speed in the field of view. <strong> Asian Journal of Control </strong>. vol. 27, no, 3, pp: 1416-1426, 16, Oct. 2024. [[Paper]](https://doi.org/10.1002/asjc.3522)
 
-- Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV Confrontation and Evolutionary Upgrade Based on Multi-Agent Reinforcement Learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
+- Xin Deng，Zhaoqi Dong, Jishiyu Ding*. UAV confrontation and evolutionary upgrade based on multi-agent reinforcement learning. <strong>Drones </strong>. vol. 8, no, 8, pp: 368, 01, Aug. 2024. [[Paper]]( https://doi.org/10.3390/drones8080368)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*. Model Predictive Control-Based Value Estimation for Efficient Reinforcement Learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
+- Qizhen Wu, Kexin Liu, Lei Chen*. Model predictive control-based value estimation for efficient reinforcement learning. <strong>IEEE Intelligent Systems</strong>. vol. 39, no. 3, pp. 63-72, May-June 2024. [[Paper]](https://ieeexplore.ieee.org/document/10494864)[[Code]](https://github.com/Wu-duanduan/MPC_based-RL)
 
 - Zhaoqi Dong, Qizhen Wu, Lei Chen*. Reinforcement learning-based formation pinning and shape transformation for swarms. <strong>Drones</strong>, vol. 7, no. 11, pp: 673, 13, Nov. 2023. [[Paper]](https://doi.org/10.3390/drones7110673)[[Video]](https://www.bilibili.com/video/BV1YN411H7K6)
 
-- Naixin Chen, Chunli Zhu*, Lei Chen. An UBSS Method for Signals with Non-Uniform Energy Distribution of Varied Frequency Bins. <strong>IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society</strong>, Singapore, Singapore, Oct. 10-14 2023.  [[Paper]](https://doi.org/10.1109/IECON51785.2023.10311827)
+- Naixin Chen, Chunli Zhu*, Lei Chen. An UBSS method for signals with non-Uniform energy distribution of varied frequencybins. <strong>IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society</strong>, Singapore, Singapore, Oct. 10-14 2023.  [[Paper]](https://doi.org/10.1109/IECON51785.2023.10311827)
 
-- Qizhen Wu, Gaoxiang Liu, Kexin Liu, Lei Chen*. Parameter Optimization via Reinforcement Learning for the Regulation of Swarms. <strong>2023 9th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10270800)
+- Qizhen Wu, Gaoxiang Liu, Kexin Liu, Lei Chen*. Parameter optimization via reinforcement learning for the regulation of swarms. <strong>2023 9th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10270800)
 
 - Zhenxin Sun, Qiang Wang, Lei Chen*, Chun Hu. "Unmanned technology-based civil-military intelligent logistics system: from construction to integration." <strong>Journal of Beijing Institute of Technology</strong> vol. 31, no. 2 (2022): 140-151. [[Paper]](https://doi.org/10.15918/j.jbit1004-0579.2022.010)
 
-- Zhenxin Sun, Lei Chen*, Gaoxiang Liu, Tong Qin, Dezhi Zheng. "Structure Impact on Phase Transition in Complex Dynamical Networks." <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9986867)
+- Zhenxin Sun, Lei Chen*, Gaoxiang Liu, Tong Qin, Dezhi Zheng. "Structure impact on phase transition in complex dynamical networks." <strong>In 2022 IEEE International Conference on Unmanned Systems (ICUS)</strong> Guangzhou, pp. 1373-1378. IEEE, October 28-30, 2022. [[Paper]](https://doi.org/10.1109/ICUS55513.2022.9986867)
 

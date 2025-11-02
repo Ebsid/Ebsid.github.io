@@ -109,4 +109,17 @@ section .main-body{
     }
 }
 
+/* 覆盖顶部区域文字的字体大小 */
+#top-section-bg-text {
+  /* Bootstrap 默认值是 'calc(1.525rem + 3.3vw)'，并在大屏幕上为 4rem。
+     你可以把它改成任何你想要的固定值或计算值。
+  */
+  font-size: 3rem; /* 示例：改小为 3rem */
+}
 
+/* （可选）如果你希望它在小屏幕上更小 */
+@media (max-width: 992px) {
+  #top-section-bg-text {
+    font-size: 2.2rem; /* 在小屏幕上显示更小的值 */
+  }
+}

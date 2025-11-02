@@ -44,7 +44,7 @@
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
-    font-size: 1rem;
+    font-size: 2rem;
     line-height: 4rem;
 }
 
@@ -114,12 +114,5 @@ section .main-body{
   /* Bootstrap 默认值是 'calc(1.525rem + 3.3vw)'，并在大屏幕上为 4rem。
      你可以把它改成任何你想要的固定值或计算值。
   */
-  font-size: 3rem; /* 示例：改小为 3rem */
-}
-
-/* （可选）如果你希望它在小屏幕上更小 */
-@media (max-width: 992px) {
-  #top-section-bg-text {
-    font-size: 2.2rem; /* 在小屏幕上显示更小的值 */
-  }
+  font-size: 4rem; /* 示例：改小为 3rem */
 }

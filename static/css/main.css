@@ -114,5 +114,6 @@ section .main-body{
   /* Bootstrap 默认值是 'calc(1.525rem + 3.3vw)'，并在大屏幕上为 4rem。
      你可以把它改成任何你想要的固定值或计算值。
   */
-  font-size: 4rem; /* 示例：改小为 3rem */
+  font-size: 4rem;
+  white-space: pre-line; /*! 新增这一行 !*/
 }

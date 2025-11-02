@@ -117,7 +117,9 @@ section .main-body{
   font-size: 4rem;
   white-space: pre-line; /*! 新增这一行 !*/
 }
-/* 为单词首字母设置蓝色 */
-.first-letter-blue {
-  color: var(--bs-blue, #2937f0);
+/* 为单词首字母设置红色 */
+.first-letter-red {
+  /* --bs-red 是在 styles.css 中定义的 Bootstrap 危险/红色变量 (#dc3545)
+  */
+  color: var(--bs-red, #dc3545); 
 }

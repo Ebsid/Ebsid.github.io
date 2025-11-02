@@ -117,3 +117,7 @@ section .main-body{
   font-size: 4rem;
   white-space: pre-line; /*! 新增这一行 !*/
 }
+/* 为单词首字母设置蓝色 */
+.first-letter-blue {
+  color: var(--bs-blue, #2937f0);
+}

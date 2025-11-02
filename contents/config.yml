@@ -1,7 +1,5 @@
 title: Ebsid's Homepage
 page-top-title: Ebsid
-top-section-bg-text: |
-  Event-based swarm intelligent decision
-  "事件驱动群体智能决策"
+top-section-bg-text: <span class="first-letter-blue">E</span>vent-<span class="first-letter-blue">b</span>ased <span class="first-letter-blue">s</span>warm <span class="first-letter-blue">i</span>ntelligent <span class="first-letter-blue">d</span>ecision<br>"事件驱动群体智能决策"
 home-subtitle: Ebsid课题组&ensp;|&ensp;群智决策课题组
 copyright-text: '&copy; Ebsid 2023-2025. All Rights Reserved.'

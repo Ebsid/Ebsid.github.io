@@ -25,7 +25,7 @@ This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as
 ## Getting Start
 ### 1. Fork this repository
 The repository name should be `<username>.github.io`, which will also be your website's URL.
-
+[index.html](index.html)
 
 ### 2. Edit page content
 
@@ -35,7 +35,7 @@ git clone https://github.com/<username>/<username>.github.io.git
 ```
 The directory structure is as follows:
 
-```.
+```.[index.html](index.html)
 .
 ├── contents
 └── static

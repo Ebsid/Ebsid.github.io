@@ -1,4 +1,9 @@
 #### Submitted
+- Ruozhai Sun, Haoshuai Wang, Lei Chen*. Hierarchical risk–aware game–theoretic robust control for swarm confrontation. <strong>2026 IFAC World Congress</strong>. Submitted.
+
+- Zhaoqi Dong, Lei Chen*, Chunli Zhu. Density-guided control barrier functions for deadlock-free swarm navigation. <strong>2026 IFAC World Congress</strong>. Submitted.
+
+- Feiyu Yu, Qizhen Wu, Lei Chen*. DataToSequence: A novel reward machine learning approach for RL. <strong>2026 IFAC World Congress</strong>. Submitted.
 
 - Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Reinforcement learning-based pathfinding for multiple UAVs facing abrupt hazardous areas. <strong>IEEE Transactions on Automation Science and Engineering</strong>. Submitted. [[Paper]](https://arxiv.org/abs/2310.16659)[[Code]](https://github.com/Wu-duanduan/Pathfinding_MARL)[[Video]](https://www.bilibili.com/video/BV1gw41197hV/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
@@ -21,10 +26,11 @@ A probabilistic transition learning approach for conflict–free decision–maki
 
 
 #### Published
+- Li Wang, Yuxuan Tang, Lei Chen*. Enabling multimodal large language models to understand and detect abstract objects. <strong>CCLD 2025</strong>. 
 
 - Naixin Chen, Lei Chen, Chunli Zhu*, Zhen Gao. Causal inference-enhanced UAV detection and identification for low-altitude air city transport. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/TITS.2025.3617479)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional task-motion planning based on hierarchical reinforcement learning for strategic confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China. [[Paper]](https://arxiv.org/abs/2504.15876)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional task-motion planning based on hierarchical reinforcement learning for strategic confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China, 2025, pp. 12115-12122. [[Paper]](https://ieeexplore.ieee.org/document/11246599)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
 - Haoshuai Wang, Yuxuan Tang, Qizhen Wu, Xin Deng, Lei Chen*. Design and simulation of a multi-platform cross-domain rescue command and control system. <strong>The 37th China Simulation Conference</strong>. Hefei, China, Nov. 1-3, 2025.
 

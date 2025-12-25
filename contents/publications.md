@@ -1,4 +1,6 @@
 #### Submitted
+- Haoshuai Wang, Zhaoqi Dong, Lei Chen*. Various vicsek models with underlying network characteristics. <strong>Physica A: Statistical Mechanics and its Applications</strong>. Submitted. [[Paper]](https://doi.org/10.48550/arXiv.2512.19030)
+
 - Ruozhai Sun, Haoshuai Wang, Lei Chen*. Hierarchical risk–aware game–theoretic robust control for swarm confrontation. <strong>2026 IFAC World Congress</strong>. Submitted.
 
 - Zhaoqi Dong, Lei Chen*, Chunli Zhu. Density-guided control barrier functions for deadlock-free swarm navigation. <strong>2026 IFAC World Congress</strong>. Submitted.

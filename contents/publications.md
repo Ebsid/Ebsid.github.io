@@ -12,7 +12,7 @@
 - Feiyu Yu, Qizhen Wu, Lei Chen*. Dynamic temporal topology reward shaping for reward machines. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted.
 
 - Qizhen Wu, Weilin Luo, Lei Chen*, Jinhu Lu. Strategic planning, precise execution: an asymmetric cognitive architecture for long-horizon VLM agents. <strong>2026 International Conference on Machine Learning (ICML)</strong>. Submitted.
-- 
+
 - Haoshuai Wang, Zhaoqi Dong, Lei Chen*. Various vicsek models with underlying network characteristics. <strong>Physica A: Statistical Mechanics and its Applications</strong>. Submitted. [[Paper]](https://doi.org/10.48550/arXiv.2512.19030)
 
 - Ruozhai Sun, Haoshuai Wang, Lei Chen*. Hierarchical risk–aware game–theoretic robust control for swarm confrontation. <strong>2026 IFAC World Congress</strong>. Submitted.

@@ -23,7 +23,13 @@
 
 - Zhaoqi Dong, Zhinan Wang, Quanqi Zheng, Bin Xu, Lei Chen*, Jinhu Lu. A probabilistic transition learning approach for conflict–free decision–making in multi–UGV confrontation. <strong>IEEE Transactions on Vehicular Technology </strong>. Submitted. [[Code]](https://github.com/dddddzq/Swarm-confrontation)[[Video]](https://b23.tv/ozlwUAs)
 
+- Li Wang, Haoshuai Wang, Linqian Yang, Qizhen Wu, Lei Chen*. Hierarchical strategic decision making in multiagent confrontations via multimodal large language models. <strong>2026 IEEE Robotics and Automation Letters (RA-L)</strong>. Submitted.
+
+- Haoshuai Wang, Zhaoqi Dong, Lei Chen*. Various vicsek models with underlying network characteristic. <strong>PHYSICAL REVIEW E</strong>. Submitted.
+
 #### Published
+- Ruozhai Sun, Linqian Yang*, Lei Chen. Risk-aware hierarchical control with robust safety filtering for swarm confrontation. 2026 IEEE International Conference on Unmanned Systems (ICUS). Accept.
+
 - Li Wang, Lei Chen*. Robust MLLM–based decision making for swarm confrontation under uncertain constraints. <strong>2026 38th Chinese Control and Decision Conference (CCDC)</strong>. Accept.
 
 - Qizhen Wu, Lei Chen*, Kexin Liu, Jinhu Lu. A simulation platform for MARL training and evaluation in swarm confrontation. <strong>IEEE Robotics and Automation Letters</strong>. Accepted. [[Code]](https://github.com/Wu-duanduan/Swarm-Confrontation-Platform)[[Video]](https://www.bilibili.com/video/BV1mRK6zbECd/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)

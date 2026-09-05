@@ -1,38 +1,30 @@
 #### Submitted
-- Quanqi Zheng, Lei Chen*. A physics-informed neural operator for gas source localization in turbulent environments. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV13pPmzmEGT/?share_source=copy_web&vd_source=9fc5a70f2dec5c6d7a9b722a64439e78)
 
-- Zhaolu Wang, Ying Luo, Hao Liang, Yutong Wu, Lei Chen*. Geometric-temporal fusion for robust estimation of drone trajectories. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted.
+- Qizhen Wu, Zihao Ma, Lei Chen*, Kexin Liu, Jinhu Lu. Neuro-symbolic collaborative planning: grounding unstructured semantics for heterogeneous multi-agent systems. <strong>2027 IEEE International Conference on Robotics and Automation (ICRA)</strong>.. Submitted.
 
-- Li Wang, Qizhen Wu, Lei Chen*. Hierarchical strategic decision making in multiagent confrontations via multimodal large language models. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV1gxPmz1E7z/?spm_id_from=333.337.search-card.all.click&vd_source=e53ef71ff92457c248b0079a2f963ade)
-
-- Haoshuai Wang, Lei Chen*. A bio-inspired obstacle avoidance framework for vision-only swarm flocking. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted. [[Video]](https://www.bilibili.com/video/BV13pPmzmEGT/?share_source=copy_web&vd_source=9fc5a70f2dec5c6d7a9b722a64439e78)
-
-- Peiyan Li, Yuxuan Tang, Lei Chen*. Turn minimization in spanning tree based coverage path planning. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted.
-
-- Feiyu Yu, Qizhen Wu, Lei Chen*. Dynamic temporal topology reward shaping for reward machines. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Submitted.
-
-- Qizhen Wu, Weilin Luo, Lei Chen*, Kexin Liu, Jinhu Lu. An Asymmetric Cognitive Architecture via VLMs for Long-Horizon Robotic Tasks. <strong>IEEE Transactions on Artificial Intelligence</strong>. Submitted.
+- Qizhen Wu, Weilin Luo, Lei Chen*, Kexin Liu, Jinhu Lu. An asymmetric cognitive architecture via VLMs for long-horizon robotic tasks. <strong>IEEE Transactions on Artificial Intelligence</strong>. Submitted.
 
 - Haoshuai Wang, Zhaoqi Dong, Lei Chen*. Various vicsek models with underlying network characteristics. <strong>Physica A: Statistical Mechanics and its Applications</strong>. Submitted. [[Paper]](https://doi.org/10.48550/arXiv.2512.19030)
-
-- Ruozhai Sun, Haoshuai Wang, Lei Chen*. Hierarchical risk–aware game–theoretic robust control for swarm confrontation. <strong>2026 IFAC World Congress</strong>. Submitted.
-
-- Zhaoqi Dong, Lei Chen*, Chunli Zhu. Density-guided control barrier functions for deadlock-free swarm navigation. <strong>2026 IFAC World Congress</strong>. Submitted.
 
 - Feiyu Yu, Qizhen Wu, Lei Chen*. DataToSequence: A novel reward machine learning approach for RL. <strong>2026 IFAC World Congress</strong>. Submitted.
 
 - Zhaoqi Dong, Zhinan Wang, Quanqi Zheng, Bin Xu, Lei Chen*, Jinhu Lu. A probabilistic transition learning approach for conflict–free decision–making in multi–UGV confrontation. <strong>IEEE Transactions on Vehicular Technology </strong>. Submitted. [[Code]](https://github.com/dddddzq/Swarm-confrontation)[[Video]](https://b23.tv/ozlwUAs)
 
-- Li Wang, Haoshuai Wang, Linqian Yang, Qizhen Wu, Lei Chen*. Hierarchical strategic decision making in multiagent confrontations via multimodal large language models. <strong>2026 IEEE Robotics and Automation Letters (RA-L)</strong>. Submitted.
+- Li Wang, Haoshuai Wang, Linqian Yang, Qizhen Wu, Lei Chen*. Hierarchical strategic decision making in multi-agent confrontations via multimodal large language models. <strong>2026 IEEE Robotics and Automation Letters (RA-L)</strong>. Submitted.
 
 - Haoshuai Wang, Zhaoqi Dong, Lei Chen*. Various vicsek models with underlying network characteristic. <strong>PHYSICAL REVIEW E</strong>. Submitted.
 
 #### Published
-- Ruozhai Sun, Linqian Yang*, Lei Chen. Risk-aware hierarchical control with robust safety filtering for swarm confrontation. 2026 IEEE International Conference on Unmanned Systems (ICUS). Accept.
 
-- Li Wang, Lei Chen*. Robust MLLM–based decision making for swarm confrontation under uncertain constraints. <strong>2026 38th Chinese Control and Decision Conference (CCDC)</strong>. Accept.
+- Quanqi Zheng, Lei Chen*. A physics-informed neural operator for gas source localization in turbulent environments. <strong>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Accepted. [[Video]](https://www.bilibili.com/video/BV13pPmzmEGT/?share_source=copy_web&vd_source=9fc5a70f2dec5c6d7a9b722a64439e78)
 
-- Qizhen Wu, Lei Chen*, Kexin Liu, Jinhu Lu. A simulation platform for MARL training and evaluation in swarm confrontation. <strong>IEEE Robotics and Automation Letters</strong>. Accepted. [[Code]](https://github.com/Wu-duanduan/Swarm-Confrontation-Platform)[[Video]](https://www.bilibili.com/video/BV1mRK6zbECd/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Zhaoqi Dong, Lei Chen*, Chunli Zhu. Density-guided control barrier functions for deadlock-free swarm navigation. <strong>2026 IFAC World Congress<strong>. Accepted.
+
+- Ruozhai Sun, Linqian Yang*, Lei Chen. Risk-aware hierarchical control with robust safety filtering for swarm confrontation. <strong>2026 IEEE International Conference on Unmanned Systems (ICUS)<strong>. Accepted.
+
+- Li Wang, Lei Chen*. Robust MLLM–based decision making for swarm confrontation under uncertain constraints. <strong>2026 38th Chinese Control and Decision Conference (CCDC)</strong>. Accepted.
+
+- Qizhen Wu, Lei Chen*, Kexin Liu, Jinhu Lu. A simulation platform for MARL training and evaluation in swarm confrontation. <strong>IEEE Robotics and Automation Letters</strong>. vol. 11, no. 5, pp: 6050-6057, May 2026. [[Code]](https://github.com/Wu-duanduan/Swarm-Confrontation-Platform)[[Video]](https://www.bilibili.com/video/BV1mRK6zbECd/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
 - Qizhen Wu, Lei Chen*, Kexin Liu, Jinhu Lu. Reinforcement learning-based pathfinding for multiple UAVs facing abrupt hazardous areas. <strong>IEEE Transactions on Automation Science and Engineering</strong>. vol. 23, pp: 4848-4860, 06, Feb. 2026. [[Paper]](https://ieeexplore.ieee.org/document/11373042/)[[Code]](https://github.com/Wu-duanduan/Pathfinding_MARL)[[Video]](https://www.bilibili.com/video/BV1gw41197hV/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
@@ -48,7 +40,7 @@
 
 - Naixin Chen, Lei Chen, Chunli Zhu*, Zhen Gao. Causal inference-enhanced UAV detection and identification for low-altitude air city transport. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. 2025 Early access. [[Paper]](https://doi.org/10.1109/TITS.2025.3617479)
 
-- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional task-motion planning based on hierarchical reinforcement learning for strategic confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China, 2025, pp. 12115-12122. [[Paper]](https://ieeexplore.ieee.org/document/11246599)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
+- Qizhen Wu, Kexin Liu, Lei Chen*, Jinhu Lu. Bidirectional task-motion planning based on hierarchical reinforcement learning for strategic confrontation. <strong>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. Hangzhou, China, 2025, pp: 12115-12122. [[Paper]](https://ieeexplore.ieee.org/document/11246599)[[Video]](https://www.bilibili.com/video/BV1JTwmeaEeN/?vd_source=9de61aecdd9fb684e546d032ef7fe7bf)
 
 - Haoshuai Wang, Yuxuan Tang, Qizhen Wu, Xin Deng, Lei Chen*. Design and simulation of a multi-platform cross-domain rescue command and control system. <strong>The 37th China Simulation Conference</strong>. Hefei, China, Nov. 1-3, 2025.
 
